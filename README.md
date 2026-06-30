@@ -1,0 +1,2 @@
+# b68633f323160511-dental-practice-appointment-sc
+The dental practice tool you'd build yourself — if you had the time.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Dental Practice Appointment Scheduling And Reminders — fully configured and ready to use - Clean admin settings panel with inline documen
